@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+div .a2 { 
+    font-family:  "Courier New";
+}
+
+body{
+    font-family:  "Arial";
+}
+
+h5 {
+    color: black;
+}
+
+div .card-title {
+    text-align: center;
+}
+
+div .card-text {
+    text-align: justify;
+}
